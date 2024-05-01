@@ -1,12 +1,8 @@
 <img src="./assets/img/Waves.svg" />
 
+<h1 align="center">
+    👋 WELCOME!
+</h1>
 <p align="center">
-    <span style="font-size: 3em">
-        <b>
-            👋 WELCOME!
-        </b>
-    </span>
-</p>
-<p align="center">
-    <span style="font-size: 1.5em;">Welcome on my profile!</span>
+  Welcome on my profile.
 </p>
