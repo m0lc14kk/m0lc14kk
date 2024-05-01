@@ -1,49 +1,12 @@
-<h1 align="left">👋 WELCOME!</h1>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffaa00" fill-opacity="1" d="M0,96L10.4,117.3C20.9,139,42,181,63,176C83.5,171,104,117,125,122.7C146.1,128,167,192,188,181.3C208.7,171,230,85,250,85.3C271.3,85,292,171,313,181.3C333.9,192,355,128,376,85.3C396.5,43,417,21,438,42.7C459.1,64,480,128,501,181.3C521.7,235,543,277,563,272C584.3,267,605,213,626,176C647,139,668,117,689,112C709.6,107,730,117,751,117.3C772.2,117,793,107,814,133.3C834.8,160,856,224,877,245.3C897.4,267,918,245,939,240C960,235,981,245,1002,224C1022.6,203,1043,149,1064,106.7C1085.2,64,1106,32,1127,26.7C1147.8,21,1169,43,1190,80C1210.4,117,1231,171,1252,165.3C1273,160,1294,96,1315,85.3C1335.7,75,1357,117,1377,144C1398.3,171,1419,181,1430,186.7L1440,192L1440,0L1429.6,0C1419.1,0,1398,0,1377,0C1356.5,0,1336,0,1315,0C1293.9,0,1273,0,1252,0C1231.3,0,1210,0,1190,0C1168.7,0,1148,0,1127,0C1106.1,0,1085,0,1064,0C1043.5,0,1023,0,1002,0C980.9,0,960,0,939,0C918.3,0,897,0,877,0C855.7,0,835,0,814,0C793,0,772,0,751,0C730.4,0,710,0,689,0C667.8,0,647,0,626,0C605.2,0,584,0,563,0C542.6,0,522,0,501,0C480,0,459,0,438,0C417.4,0,397,0,376,0C354.8,0,334,0,313,0C292.2,0,271,0,250,0C229.6,0,209,0,188,0C167,0,146,0,125,0C104.3,0,83,0,63,0C41.7,0,21,0,10,0L0,0Z"></path></svg>
 
-###
-
-<p align="left">My name is Oliwier and I am into programming for about 2 years. I am mainly Front-End Developer, but I can create Minecraft Add-ons aswell. Most of my projects are using TypeScript, however I have some knowledge in 4 languages including some Python and a bit of C++.<br><br>I am a fast learner always wanting to learn new things and expand my horizon. So far I can speak fluently in Polish and English, but I am also learning German in school.</p>
-
-###
-
-<h1 align="left">💻 TECHNOLOGIES!</h1>
-
-###
-
-<p align="left">In my journey, so far I have learned:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<h1 align="left">📊 MY STATS!</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0lc14kk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0lc14kk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=m0lc14kk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
- 
-###
+<p align="center">
+    <span style="font-size: 3em">
+        <b>
+            👋 WELCOME!
+        </b>
+    </span>
+</p>
+<p align="center">
+    <span style="font-size: 1.5em;">Welcome on my profile!</span>
+</p>
