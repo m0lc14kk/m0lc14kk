@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="./assets/img/banner.png" />
+    <img src="./assets/img/banner.png" width="400" />
 </p>
 
 <p align="center">
-    **Full-Stack & Node.js Developer**
+    <b>Full-Stack & Node.js Developer</b>
 </p>
 
 ___
