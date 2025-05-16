@@ -1,18 +1,12 @@
 <p align="center">
-    <img src="./.github/images/banner.png" width="980" />
-</p>
-
-<p align="center">
-    <b>Full-Stack & Node.js Developer</b>
+    <img src="./.github/images/banner.png" width="750" />
 </p>
 
 ___
 
-### 👋 WELCOME
+Hello, I am Oliwier - polish full-stack developer, passionate with programming for 4 years.
 
-Hi, my name is Oliwier, I come from Poland and I have been programming for 4 years.
+On a daily basis, I create add-ons for Minecraft: Bedrock Edition and work on full-stack websites. Despite this, I am associated with Bedrock Marketplace studios and few Minecraft server networks.
 
-On a daily basis, I create add-ons for MC:BE and front-end websites. In addition, I can create website back-ends and write software and applications in the Node.js ecosystem.
-
-Despite this, I am open to learning new tools, frameworks and programming languages.
-
+- Portfolio: [m0lc14kk.com](https://m0lc14kk.com/)
+- Contact: Contact (https://m0lc14kk.com/contact/)
