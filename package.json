@@ -1,0 +1,13 @@
+{
+    "name": "m0lc14kk",
+    "description": "Description of my workflow.",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {},
+    "keywords": [
+        "m0lc14kk"
+    ],
+    "author": "m0lc14kk",
+    "license": "Apache-2.0",
+    "packageManager": "pnpm@10.15.1"
+}
