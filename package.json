@@ -5,6 +5,8 @@
     "version": "1.0.0",
     "scripts": {
         "format": "pnpm exec prettier --write .",
+        "lint": "pnpm exec eslint .",
+        "lint:fix": "pnpm exec eslint --fix .",
         "prepare": "husky"
     },
     "keywords": [
