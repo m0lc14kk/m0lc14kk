@@ -4,7 +4,6 @@ import tseslint from "typescript-eslint"
 import json from "@eslint/json"
 import markdown from "@eslint/markdown"
 import css from "@eslint/css"
-import html from "@html-eslint/eslint-plugin"
 import { defineConfig } from "eslint/config"
 
 export default defineConfig([
@@ -14,16 +13,6 @@ export default defineConfig([
         plugins: { js },
         extends: ["js/recommended"],
         languageOptions: { globals: { ...globals.browser, ...globals.node } },
-    },
-    {
-        files: ["**/*.html"],
-        plugins: {
-            html,
-        },
-        language: "html/html",
-        rules: {
-            "html/require-img-alt": "error",
-        },
     },
     {
         files: ["**/*.json"],
