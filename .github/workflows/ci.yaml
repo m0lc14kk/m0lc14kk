@@ -28,4 +28,3 @@ jobs:
             - name: Run ESLint script and validate
               run: pnpm run lint
               shell: bash
-              
