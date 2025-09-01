@@ -2,3 +2,5 @@
 /.vscode/
 !/.vscode/extensions.json
 /.vs/
+
+/node_modules/
