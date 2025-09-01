@@ -14,10 +14,6 @@
         "rootDir": "./src",
         "outDir": "./dist"
     },
-    "include": [
-        "src"
-    ],
-    "exclude": [
-        "node_modules", "dist", ".github", "public"
-    ]
+    "include": ["src"],
+    "exclude": ["node_modules", "dist", ".github", "public"]
 }

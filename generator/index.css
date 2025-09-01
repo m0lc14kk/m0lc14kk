@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
 
 @font-face {
-    font-family: 'Brittany Signature', sans-serif;
+    font-family: "Brittany Signature", sans-serif;
     src: url("../assets/fonts/BrittanySignature.ttf");
 }
 
@@ -11,11 +11,11 @@ body {
 }
 
 .brittany-signature {
-    font-family: 'Brittany Signature', sans-serif;
+    font-family: "Brittany Signature", sans-serif;
 }
 
 *:not(.brittany-signature) {
-    font-family: 'Geist';
+    font-family: "Geist";
 }
 
 h1 {
