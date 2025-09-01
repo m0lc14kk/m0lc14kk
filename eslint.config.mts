@@ -15,19 +15,44 @@ export default defineConfig([
         extends: ["js/recommended"],
         languageOptions: { globals: { ...globals.browser, ...globals.node } },
     },
-  {
-    files: ["**/*.html"],
-    plugins: {
-      html,
+    {
+        files: ["**/*.html"],
+        plugins: {
+            html,
+        },
+        language: "html/html",
+        rules: {
+            "html/require-img-alt": "error",
+        },
     },
-    language: "html/html",
-    rules: {
-      "html/require-img-alt": "error"
-    }
-  },
-    { files: ["**/*.json"], plugins: { json }, language: "json/json", extends: ["json/recommended"] },
-    { files: ["**/*.jsonc"], plugins: { json }, language: "json/jsonc", extends: ["json/recommended"] },
-    { files: ["**/*.json5"], plugins: { json }, language: "json/json5", extends: ["json/recommended"] },
-    { files: ["**/*.md"], plugins: { markdown }, language: "markdown/gfm", extends: ["markdown/recommended"] },
-    { files: ["**/*.css"], plugins: { css }, language: "css/css", extends: ["css/recommended"] },
+    {
+        files: ["**/*.json"],
+        plugins: { json },
+        language: "json/json",
+        extends: ["json/recommended"],
+    },
+    {
+        files: ["**/*.jsonc"],
+        plugins: { json },
+        language: "json/jsonc",
+        extends: ["json/recommended"],
+    },
+    {
+        files: ["**/*.json5"],
+        plugins: { json },
+        language: "json/json5",
+        extends: ["json/recommended"],
+    },
+    {
+        files: ["**/*.md"],
+        plugins: { markdown },
+        language: "markdown/gfm",
+        extends: ["markdown/recommended"],
+    },
+    {
+        files: ["**/*.css"],
+        plugins: { css },
+        language: "css/css",
+        extends: ["css/recommended"],
+    },
 ])
