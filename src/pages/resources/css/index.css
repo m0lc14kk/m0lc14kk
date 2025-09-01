@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Brittany Signature";
+    src: url(../../../../public/assets/fonts/BrittanySignature.ttf);
+}
+
+main {
+    background-size: 50px 50px;
+    background-image:
+        linear-gradient(to right, oklch(98.5% 0.002 247.839) 1px, transparent 1px),
+        linear-gradient(to bottom, oklch(98.5% 0.002 247.839) 1px, transparent 1px);
+}
+
+h1 {
+    font-family: "Brittany Signature", sans-serif;
+    font-size: 256px;
+    color: #000000;
+}
