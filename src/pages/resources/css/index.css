@@ -1,9 +1,3 @@
-*,
-html,
-body {
-    overflow: hidden;
-}
-
 @font-face {
     font-family: "Brittany Signature";
     src: url(../../../../public/assets/fonts/BrittanySignature.ttf);
